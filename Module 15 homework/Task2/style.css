@@ -1,0 +1,9 @@
+.btn_icon{
+    width: 120px;
+    height: 20px;
+} 
+.btn_text{
+    background-color: palegreen;
+}
+.btn_text:hover {
+    color: orange;}

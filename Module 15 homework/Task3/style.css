@@ -1,0 +1,29 @@
+.btn {
+    background-color:green; 
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+.btn:hover{
+    background-color: #4CAF50; 
+    color: white;
+}
+.size {
+    background-color:blue; 
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+.size:hover{
+    background-color: #362d85; 
+    color: white;
+}

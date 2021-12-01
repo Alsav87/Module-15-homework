@@ -1,0 +1,9 @@
+div {
+    display:table-cell; 
+    font-size: 22px;
+    width: 400px;
+    height: 100px;
+    background:none;
+    text-align:center;
+    letter-spacing:normal;
+   }

@@ -1,0 +1,38 @@
+.menu{   
+    width: 550px;
+    height: 350px;
+    padding: 12px 20px;
+    box-sizing: border-box;
+    border: 5px solid rgb(136, 136, 243);
+    border-radius: 4px;
+    background-color: #ffffff;
+    resize: none;
+
+}
+.wrapper{
+    float: left;
+    width: 550px;
+    height: 200px;
+    margin-top: 6px;
+}
+
+.msger-input{
+    text-indent: 60px;
+    width: 65%;
+    border: 2px solid rgb(136, 136, 243);
+    border-radius: 4px ;
+    margin-top: 20px;
+    height: 20px;
+}
+.msger-send-btn{
+    border-radius: 2px ;
+    height: 25px;
+    background-color:rgb(179, 179, 241) ;
+    cursor: pointer;
+}
+.msger-geo-btn{
+    border-radius: 2px ;
+    height: 25px;
+    background-color:rgb(179, 179, 241);
+    cursor: pointer;
+}
